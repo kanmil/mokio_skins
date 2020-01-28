@@ -3,7 +3,7 @@ GIT
   revision: 7ed5703cecfc49aefbcd115d35db2ba7e7dace9d
   branch: 0.0.10
   specs:
-    mokio (0.0.10)
+    mokio (0.0.11)
       acts_as_list 
       amoeba 
       ancestry
