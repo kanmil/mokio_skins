@@ -6,7 +6,7 @@ $:.push File.expand_path("../lib", __FILE__)
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
   s.name        = "mokio_skins"
-  s.version     = MokioSkins::VERSION
+  # s.version     = MokioSkins::VERSION
   s.authors     = ["versoft"]
   s.email       = ["info@mokio.org"]
   s.homepage    = "http://www.mokio.org"
