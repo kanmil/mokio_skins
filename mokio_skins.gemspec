@@ -16,10 +16,10 @@ Gem::Specification.new do |s|
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
 
-  # s.add_dependency "rails", "~> 4.1.5"
+  # s.add_dependency "rails", "~> 6.0.1"
 
   s.add_dependency 'sass-rails',                  '~> 6'
-  s.add_dependency 'coffee-rails',                
-  s.add_dependency 'carrierwave',                 
-  s.add_dependency 'rubyzip'
+  s.add_dependency 'coffee-rails',                '~> 4.1', '>= 4.1.1'
+  s.add_dependency 'carrierwave',                 '~> 2.0', '>= 2.0.2'
+  s.add_dependency 'rubyzip'                      '~> 2.1'
 end
