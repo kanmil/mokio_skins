@@ -21,5 +21,5 @@ Gem::Specification.new do |s|
   s.add_dependency 'sass-rails',                  '~> 6'
   s.add_dependency 'coffee-rails',                '~> 4.1', '>= 4.1.1'
   s.add_dependency 'carrierwave',                 '~> 2.0', '>= 2.0.2'
-  s.add_dependency 'rubyzip'                      '~> 2.1'
+  s.add_dependency 'rubyzip',                     '~> 2.1'
 end
