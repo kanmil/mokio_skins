@@ -1,9 +1,9 @@
 GIT
   remote: https://github.com/versoft/mokio.git
   revision: 7ed5703cecfc49aefbcd115d35db2ba7e7dace9d
-  branch: 0.0.10
+  branch: 0.0.11
   specs:
-    mokio (0.0.10)
+    mokio (0.0.11)
       acts_as_list (~> 0.4, >= 0.4.0)
       amoeba (~> 2.0, >= 2.0.0)
       ancestry (~> 2.1, >= 2.1.0)
